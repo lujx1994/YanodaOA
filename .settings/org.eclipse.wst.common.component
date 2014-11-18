@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="LeyeOA">
+    <wb-module deploy-name="YanodaOA">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/LeyeOA/build/classes"/>
-        <property name="context-root" value="LeyeOA"/>
+        <property name="java-output-path" value="/YanodaOA/build/classes"/>
+        <property name="context-root" value="YanodaOA"/>
     </wb-module>
 </project-modules>
